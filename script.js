@@ -4,8 +4,8 @@ document.body.appendChild(getSumBtn);
 
 const getSum = () => {
 //Add your code here
-	 console.log(document.querySelectorAll('.item'));
-	 console.log(document.querySelectorAll('.price'));
+	 document.querySelectorAll('.item');
+	 document.querySelectorAll('.price');
 	
   
 };
